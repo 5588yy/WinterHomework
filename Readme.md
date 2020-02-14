@@ -23,3 +23,5 @@ this.workpath="C:\\homework";
 5、User中管理所有成员及其权限
 
 6、代码在HomeworkSystem中的System中
+
+7、两个思维导图中写了程序的结构，写程序途中有修改，可能不完全一样，有一些不一样
