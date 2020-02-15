@@ -8,7 +8,7 @@
 
 4、User中管理所有成员及其权限
 
-5、代码在HomeworkSystem中的System中
+5、代码在HomeworkSystem2.0中的System中
 
 6、两个思维导图中写了程序的结构，写程序途中有修改，可能不完全一样，有一些不一样
 
